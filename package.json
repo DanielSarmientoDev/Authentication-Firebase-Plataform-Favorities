@@ -1,0 +1,23 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "firebase test authentication",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSarmientoDev/Authentication-Firebase-Plataform-Favorities.git"
+  },
+  "keywords": [
+    "Authentication",
+    "Firebase"
+  ],
+  "author": "Daniel Sarmiento Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSarmientoDev/Authentication-Firebase-Plataform-Favorities/issues"
+  },
+  "homepage": "https://github.com/DanielSarmientoDev/Authentication-Firebase-Plataform-Favorities#readme"
+}

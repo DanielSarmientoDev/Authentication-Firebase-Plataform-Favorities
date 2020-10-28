@@ -1,0 +1,1 @@
+# Authentication-Firebase-Plataform-Favorities
